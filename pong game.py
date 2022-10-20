@@ -1,6 +1,7 @@
 import random
 import turtle
 import time
+
 pen2=turtle.Turtle()
 pen2.color('black')
 p=pen2.getscreen().bgcolor('white')
@@ -8,11 +9,16 @@ pen2.up()
 pen2.goto(0,0)
 pen2.down()
 pen2.showturtle()
-pen2.write('WELCOME TO PYPONG GAME\nHow to play',align='center',font=('Times New Roman',22,'bold'))
+pen2.write('WELCOME TO PYPONG GAME\n\n\nHow to play',align='center',font=('Times New Roman',22,'bold'))
+pen2.up()
+pen2.goto(0,-70)
+pen2.down()
+pen2.showturtle()
+pen2.write('USE Q,A for left control and O,L for right',align='center',font=('Arial',16,'normal'))
 pen2.hideturtle()
-time.sleep(4)
+time.sleep(2)
 pen2.clear()
-if time.sleep(5):
+if time.sleep(3):
     exit()
 
 wn=turtle.Screen()
@@ -61,7 +67,12 @@ pen.up()
 pen.goto(0,260)
 pen.down()
 pen.showturtle()
-pen.write('WELCOME TO PYPONG GAME',align='center',font=('Times New Roman',22,'bold'))
+pen.write('PYPONG GAME',align='center',font=('Times New Roman',22,'bold'))
+pen.up()
+pen.goto(0,245)
+pen.down()
+pen.write('Created by PyDanny',align='center',font=('Times New Roman',9,'underline'))
+
 pen.hideturtle()
 
 pen1=turtle.Turtle()
@@ -142,6 +153,7 @@ while(True):
 
 
     #collision
+
 
 
 
