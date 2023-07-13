@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and html,css,javascript development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on fastapi
-- 📫 How to reach me quansahd19@gmail.com
+- 📫 How to reach me quansahd577@gmail.com
 
 <!---
 PyDanny21/PyDanny21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
