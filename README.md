@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PyDanny21
+- 👋 Hi, I’m Daniel Quansah
+- @PyDanny21
 - 👀 I’m a Full Stack Python Web Developer 
 - 🌱 I work with HTML, CSS JAVASCRIPT for Frontend and Python Django for backend  
 - 💞️ I also ise Python for Machine learning and Computer Vision and AI
